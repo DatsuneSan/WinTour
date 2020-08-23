@@ -11,4 +11,4 @@ HTML Only
 This is the **S**hock**w**ave **F**lash tour, the one that has all the music and voice over.
 
 ## HTML Only
-This is the HTML Variant of the XP Tour, the one that opened in an Internet Explorer Window with no music, and no voice over
+This is the HTML Variant of the XP Tour, the one that opened in an Internet Explorer Window with no music, and no voice over. This is the basic tour.
